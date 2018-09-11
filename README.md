@@ -9,11 +9,9 @@ This small web all pulls from the public star wars API and allows the user to ge
 <li>jQuery</li>
 <li>Star Wars API</li>
 
-<h4>Basic Table:</h4>
+<h2>Images:</h2>
 <img src="./pics/SW1.png">
 
-<h4>Cards Dealt:</h4>
 <img src="./pics/SW2.png">
 
-<h4>The House ALways Wins in The End:</h4>
 <img src="./pics/SW3.png">
